@@ -1,0 +1,2 @@
+# Rapidchain
+Rapidchain BlockChain Technology 
